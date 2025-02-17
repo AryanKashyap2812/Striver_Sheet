@@ -1,0 +1,1 @@
+{"name":"Local: Print_Grade","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/Print_Grade.cpp","tests":[{"id":1739767381021,"input":"67","output":"Grade is B"},{"id":1739767426464,"input":"97","output":"Grade is A"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/Print_Grade.cpp","group":"local","local":true}
