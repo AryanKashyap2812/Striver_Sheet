@@ -30,7 +30,36 @@ void explainVector() // vector is dynamic in nature
 
     vector<int>::iterator it = v.end(); // iterator points to the memory just next to where last element is located
 
-     cout << v[0]; // prints the first element of the vector
+    cout << v[0]; // prints the first element of the vector
 
     cout << v.back() << " "; // prints the last element of the vector
+
+    for (vector<int>::iterator it = v.begin(); it != v.end(); it++)
+    {
+        cout << *(it) << " ";
+    }
+
+    for (auto it = v.begin(); it != v.end(); it++) // auto automatically defines the data type of the variable
+    {
+        cout << *(it) << " ";
+    }
+
+    //{10,20,30,40,50}
+
+    v.erase(v.begin() + 1);                // will erase 20
+    v.erase(v.begin() + 2, v.begin() + 4); // will erase 30,40 i.e [start,end)
+
+    vector<int> v(2, 100);          //{100,100}
+    v.insert(v.begin(), 300);       //{300,100,100}
+    v.insert(v.begin() + 1, 2, 65); // here we have to insert 65 two times at (begin + 1) position so answer will be {300,65,65,100,100}
+
+    //{10,20,30,40,50}
+
+    cout << v.size(); // prints 5
+
+    v.pop_back(); // deletes the last element and returns the remaining vector
+
+    v.clear(); // clears the entire vector
+
+    v.empty(); // tells whether a vector is empty or not
 }
