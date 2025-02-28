@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void explainVector() // vector is dynamic in nature
+void explainVector() // vector is dynamic in nature // a singly linked list is mainted for vector so it is less time consuming
 {
     vector<int> v; // declaring a vector with int as data type
 
@@ -62,4 +62,4 @@ void explainVector() // vector is dynamic in nature
     v.clear(); // clears the entire vector
 
     v.empty(); // tells whether a vector is empty or not
-}
+} 
