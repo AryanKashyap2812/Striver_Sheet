@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
 // T.C :O(n^2) (worst case)
 // T.C :O(n) (best case)
 
@@ -17,7 +16,7 @@ int main()
     }
 
     for (int i = n - 1; i >= 0; i--)
-    //for (int i = 0; i <=n-1; i++) // wrong approach
+    // for (int i = 0; i <=n-1; i++) // wrong approach
     {
         int flag = 0;
         for (int j = 0; j < i; j++)
@@ -36,7 +35,6 @@ int main()
 
     for (const int &i : v)
     {
-        cout << i <<" ";
+        cout << i << " ";
     }
-
 }
