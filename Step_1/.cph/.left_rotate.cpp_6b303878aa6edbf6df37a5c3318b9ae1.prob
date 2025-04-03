@@ -1,0 +1,1 @@
+{"name":"Local: left_rotate","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/left_rotate.cpp","tests":[{"id":1743673118060,"input":"4\n1 3 2 6","output":"3 2 6 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/left_rotate.cpp","group":"local","local":true}
