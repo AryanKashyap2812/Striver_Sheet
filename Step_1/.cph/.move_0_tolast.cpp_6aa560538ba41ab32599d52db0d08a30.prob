@@ -1,0 +1,1 @@
+{"name":"Local: move_0_tolast","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/move_0_tolast.cpp","tests":[{"id":1743768404738,"input":"5\n1 3 0 0 4","output":"1 3 4 0 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/move_0_tolast.cpp","group":"local","local":true}

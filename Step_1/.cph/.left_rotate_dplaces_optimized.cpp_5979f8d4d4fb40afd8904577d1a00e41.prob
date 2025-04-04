@@ -1,0 +1,1 @@
+{"name":"Local: left_rotate_dplaces_optimized","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/left_rotate_dplaces_optimized.cpp","tests":[{"id":1743751142716,"input":"5\n3\n2 4 6 8 9","output":"8 9 2 4 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/left_rotate_dplaces_optimized.cpp","group":"local","local":true}
