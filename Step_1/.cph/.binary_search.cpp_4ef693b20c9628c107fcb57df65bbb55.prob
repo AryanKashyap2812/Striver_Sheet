@@ -1,0 +1,1 @@
+{"name":"Local: binary_search","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/binary_search.cpp","tests":[{"id":1744039649843,"input":"5\n7\n1 3 5 7 9","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/binary_search.cpp","group":"local","local":true}
