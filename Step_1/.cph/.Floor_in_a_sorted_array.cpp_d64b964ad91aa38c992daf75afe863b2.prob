@@ -1,0 +1,1 @@
+{"name":"Local: Floor_in_a_sorted_array","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/Floor_in_a_sorted_array.cpp","tests":[{"id":1744090950555,"input":"7\n5\n1 2 8 10 10 12 19","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/Floor_in_a_sorted_array.cpp","group":"local","local":true}
