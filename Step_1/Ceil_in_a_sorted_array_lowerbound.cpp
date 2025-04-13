@@ -3,7 +3,7 @@ using namespace std;
 
 int lowerBound(vector<int> &v, int n, int t)
 {
-    int ans = n;
+    int ans = -1;
     int low = 0;
     int high = n - 1;
     while (low <= high)

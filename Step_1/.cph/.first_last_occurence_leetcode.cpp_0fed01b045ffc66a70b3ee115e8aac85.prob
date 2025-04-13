@@ -1,0 +1,1 @@
+{"name":"Local: first_last_occurence_leetcode","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/first_last_occurence_leetcode.cpp","tests":[{"id":1744540911555,"input":"6\n8\n5 7 7 8 8 10","output":"3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/first_last_occurence_leetcode.cpp","group":"local","local":true}

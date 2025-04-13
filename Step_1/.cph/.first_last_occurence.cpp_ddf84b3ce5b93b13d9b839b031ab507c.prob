@@ -1,0 +1,1 @@
+{"name":"Local: first_last_occurence","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/first_last_occurence.cpp","tests":[{"id":1744539949869,"input":"6\n8\n5 7 7 8 8 10","output":"3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/first_last_occurence.cpp","group":"local","local":true}
