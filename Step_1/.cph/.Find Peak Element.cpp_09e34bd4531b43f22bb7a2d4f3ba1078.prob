@@ -1,0 +1,1 @@
+{"name":"Local: Find Peak Element","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/Find Peak Element.cpp","tests":[{"id":1744808887049,"input":"4\n1 2 3 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/Find Peak Element.cpp","group":"local","local":true}
