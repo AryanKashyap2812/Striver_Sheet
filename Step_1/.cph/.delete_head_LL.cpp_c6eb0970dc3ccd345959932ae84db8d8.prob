@@ -1,0 +1,1 @@
+{"name":"Local: delete_head_LL","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/delete_head_LL.cpp","tests":[{"id":1745144329864,"input":"5\n1 4 6 8 4","output":"4 6 8 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/delete_head_LL.cpp","group":"local","local":true}
