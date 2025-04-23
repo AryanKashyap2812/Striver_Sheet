@@ -1,0 +1,1 @@
+{"name":"Local: Linked List Cycle","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/Linked List Cycle.cpp","tests":[{"id":1745422721505,"input":"5\n1 2 3 5 4","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/Linked List Cycle.cpp","group":"local","local":true}
