@@ -1,0 +1,1 @@
+{"name":"Local: delete_head_of_a_DLL","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/delete_head_of_a_DLL.cpp","tests":[{"id":1745566201816,"input":"5\n1 2 3 4 5","output":"2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/delete_head_of_a_DLL.cpp","group":"local","local":true}

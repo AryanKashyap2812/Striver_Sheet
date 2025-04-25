@@ -1,0 +1,1 @@
+{"name":"Local: intro_DLL","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/intro_DLL.cpp","tests":[{"id":1745564897094,"input":"5\n1 2 3 4 5","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/intro_DLL.cpp","group":"local","local":true}
