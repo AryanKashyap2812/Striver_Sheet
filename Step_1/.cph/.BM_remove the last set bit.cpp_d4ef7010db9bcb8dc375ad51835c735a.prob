@@ -1,0 +1,1 @@
+{"name":"Local: BM_remove the last set bit","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/BM_remove the last set bit.cpp","tests":[{"id":1745662905661,"input":"12","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/BM_remove the last set bit.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: BM_check if i th bit is set or not","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/BM_check if i th bit is set or not.cpp","tests":[{"id":1745661043494,"input":"13\n2","output":"set"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/BM_check if i th bit is set or not.cpp","group":"local","local":true}
