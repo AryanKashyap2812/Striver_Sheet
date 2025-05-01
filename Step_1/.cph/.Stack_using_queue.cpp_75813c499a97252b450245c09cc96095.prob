@@ -1,0 +1,1 @@
+{"name":"Local: Stack_using_queue","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/Stack_using_queue.cpp","tests":[{"id":1746092157714,"input":"10 20 30","output":"30\n30\n20\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/Stack_using_queue.cpp","group":"local","local":true}
