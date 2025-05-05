@@ -1,0 +1,1 @@
+{"name":"Local: Postfix to Infix","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/Postfix to Infix.cpp","tests":[{"id":1746458149756,"input":"ab+","output":"(a+b)"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/Postfix to Infix.cpp","group":"local","local":true}

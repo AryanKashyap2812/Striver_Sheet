@@ -1,0 +1,1 @@
+{"name":"Local: Prefix to Postfix Conversion","url":"/home/aryan/Desktop/Striver_Sheet/Step_1/Prefix to Postfix Conversion.cpp","tests":[{"id":1746463867617,"input":"*+AB-CD","output":"AB+CD-*"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Desktop/Striver_Sheet/Step_1/Prefix to Postfix Conversion.cpp","group":"local","local":true}
