@@ -6,7 +6,7 @@ class Solution
 public:
     int mySqrt(int x)
     {
-        int low = 0, mid, high = x, ans = 1;
+        long long low = 0, mid, high = x, ans = 1;
 
         while (low <= high)
         {
